@@ -4,14 +4,14 @@ I'm **Quinten**, a DevOps Engineer with 5 years of programming experience, focus
 I enjoy turning manual, error-prone workflows into scalable, automated solutions.
 
 - 🔭 I’m currently working on automation projects using **Python**, **Bash**, and **CI/CD pipelines**
-- 🌱 I’m currently learning **Docker**, **Kubernetes**, and deeper Linux internals
+- 🌱 I’m currently learning **Docker**, **Kubernetes**, and deeper **Linux** fundamentals
 - ⚙️ I have experience automating workflows, data validation, and system integrations in production environments
 - 🧠 Background in software development, process automation, and platform-oriented thinking
-- 🐧 Linux-first workflow (daily driver)
+- 🐧 Linux-first workflow (daily drivern, I use arch btw ;) )
 
 **Tech I work with:**
 - **Languages:** Python, Bash  
-- **DevOps:** Docker, CI/CD pipelines, Azure Functions  
+- **DevOps:** Docker, CI/CD pipelines, Azure Functions, Kubernetes  
 - **Automation:** Python scripting, APIs, data validation  
 - **Platforms:** Linux, PowerApps  
 

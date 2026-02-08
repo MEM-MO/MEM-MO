@@ -17,6 +17,6 @@ I enjoy turning manual, error-prone workflows into scalable, automated solutions
 
 - 👯 I’m interested in collaborating on **automation tools, DevOps labs, or Linux-based projects**
 - 💬 Ask me about **automation, Python scripting, Linux, or transitioning into DevOps**
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/quinten-wildemeersch/))
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quinten-wildemeersch/)
 - ⚡ Fun fact: I’ve fully dropped Windows and run a Linux-only (personally)
 

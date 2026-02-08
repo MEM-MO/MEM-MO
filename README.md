@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**QuintenMM/QuintenMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Quinten**, a DevOps Engineer with 5 years of programming experience, focused on **automation, Linux, and reliable systems**.  
+I enjoy turning manual, error-prone workflows into scalable, automated solutions.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on automation projects using **Python**, **Bash**, and **CI/CD pipelines**
+- 🌱 I’m currently learning **Docker**, **Kubernetes**, and deeper Linux internals
+- ⚙️ I have experience automating workflows, data validation, and system integrations in production environments
+- 🧠 Background in software development, process automation, and platform-oriented thinking
+- 🐧 Linux-first workflow (daily driver)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with:**
+- **Languages:** Python, Bash  
+- **DevOps:** Docker, CI/CD pipelines, Azure Functions  
+- **Automation:** Python scripting, APIs, data validation  
+- **Platforms:** Linux, PowerApps  
+
+- 👯 I’m interested in collaborating on **automation tools, DevOps labs, or Linux-based projects**
+- 💬 Ask me about **automation, Python scripting, Linux, or transitioning into DevOps**
+- 📫 How to reach me: **LinkedIn** (from my profile)
+- ⚡ Fun fact: I’ve fully dropped Windows and run a Linux-only workflow
+

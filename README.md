@@ -7,7 +7,7 @@ I enjoy turning manual, error-prone workflows into scalable, automated solutions
 - 🌱 I’m currently learning **Docker**, **Kubernetes**, and deeper **Linux** fundamentals
 - ⚙️ I have experience automating workflows, data validation, and system integrations in production environments
 - 🧠 Background in software development, process automation, and platform-oriented thinking
-- 🐧 Linux-first workflow (daily drivern, I use arch btw ;) )
+- 🐧 Linux-first workflow (daily driver, I use arch btw ;) )
 
 **Tech I work with:**
 - **Languages:** Python, Bash  

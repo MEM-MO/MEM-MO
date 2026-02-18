@@ -1,3 +1,12 @@
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jacquard+12+Charted&size=75&duration=1500&pause=600&color=761089&center=true&multiline=true&repeat=false&width=1920&height=384&lines=Welcome;To+the+github+profile+of+;MementoMori)](https://git.io/typing-svg)
+
+</p>
+
+
+
+
 ## Hi there 👋
 
 I'm **Quinten**, a DevOps Engineer with 5 years of programming experience, focused on **automation, Linux, and reliable systems**.  

@@ -6,5 +6,5 @@
 
 
 <a href="https://github.com/MEM-MO/MEM-MO">
-  <img alt="MEM-MO's GitHub Profile README" src="https://raw.githubusercontent.com/MEM-MO/MEM-MO/main/dark_mode.svg">
+  <img alt="MEM-MO's GitHub Profile README" src="https://raw.githubusercontent.com/MEM-MO/MEM-MO/main/dark_mode.svg?v=2">
 </a>

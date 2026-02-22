@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #8b5cf6;}
+.value {fill: #7dd3fc; }
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#f5a0fc" class="ascii">
+<tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⠴⠶⠶⠶⠶⠶⠶⠶⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="50">⠀⠀⠀⠀⢀⣤⠶⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠶⣤⡀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="70">⠀⠀⢀⡴⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢷⡄⠀⠀⠀
+</tspan>
+<tspan x="15" y="90">⠀⣰⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⠀⠀
+</tspan>
+<tspan x="15" y="110">⢰⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀
+</tspan>
+<tspan x="15" y="130">⣿⠀⠀⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡄⠀⢹⡄
+</tspan>
+<tspan x="15" y="150">⡏⠀⢰⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⢸⡇
+</tspan>
+<tspan x="15" y="170">⣿⠀⠘⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⢸⡇
+</tspan>
+<tspan x="15" y="190">⢹⡆⠀⢹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⣾⠀
+</tspan>
+<tspan x="15" y="210">⠈⢷⡀⢸⡇⠀⢀⣠⣤⣶⣶⣶⣤⡀⠀⠀⠀⠀⠀⢀⣠⣶⣶⣶⣶⣤⣄⠀⠀⣿⠀⣼⠃⠀
+</tspan>
+<tspan x="15" y="230">⠀⠈⢷⣼⠃⠀⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⡇⠀⢸⡾⠃⠀⠀
+</tspan>
+<tspan x="15" y="250">⠀⠀⠈⣿⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⡇⠀⠀⠀
+</tspan>
+<tspan x="15" y="270">⠀⠀⠀⣿⠀⠀⠘⢿⣿⣿⣿⣿⡿⠃⠀⢠⠀⣄⠀⠀⠙⢿⣿⣿⣿⡿⠏⠀⠀⢘⡇⠀⠀⠀
+</tspan>
+<tspan x="15" y="290">⠀⠀⠀⢻⡄⠀⠀⠀⠈⠉⠉⠀⠀⠀⣴⣿⠀⣿⣷⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⢸⡇⠀⠀⠀
+</tspan>
+<tspan x="15" y="310">⠀⠀⠀⠈⠻⣄⡀⠀⠀⠀⠀⠀⠀⢠⣿⣿⠀⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="330">⠀⠀⠀⠀⠀⠘⣟⠳⣦⡀⠀⠀⠀⠸⣿⡿⠀⢻⣿⡟⠀⠀⠀⠀⣤⡾⢻⡏⠁⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="350">⠀⠀⠀⠀⠀⠀⢻⡄⢻⠻⣆⠀⠀⠀⠈⠀⠀⠀⠈⠀⠀⠀⢀⡾⢻⠁⢸⠁⠀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⢸⡇⠀⡆⢹⠒⡦⢤⠤⡤⢤⢤⡤⣤⠤⡔⡿⢁⡇⠀⡿⠀⠀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="390">⠀⠀⠀⠀⠀⠀⠘⡇⠀⢣⢸⠦⣧⣼⣀⡇⢸⢀⣇⣸⣠⡷⢇⢸⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="410">⠀⠀⠀⠀⠀⠀⠀⣷⠀⠈⠺⣄⣇⢸⠉⡏⢹⠉⡏⢹⢀⣧⠾⠋⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="430">⠀⠀⠀⠀⠀⠀⠀⠻⣆⠀⠀⠀⠈⠉⠙⠓⠚⠚⠋⠉⠁⠀⠀⠀⢀⡾⠁⠀⠀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="450">⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀
+</tspan>
+<tspan x="15" y="470">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠳⠶⠦⣤⣤⣤⡤⠶⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="490"></tspan>
+<tspan x="15" y="510"></tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">Memento-Mori</tspan> -—————————————————————————————————————————————
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">DevOps Engineer</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">5 Years Programming</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Automation, Linux, Reliable Systems</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Workflow</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Linux-first (Arch BTW
+)</tspan>
+
+<tspan x="390" y="150">- Current</tspan> -———————————————————————————————————————————————
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Working On</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Python, Bash, CI/CD Automation</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Docker, Kubernetes, Advanced Linux</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Workflow Automation, System Integration</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Background</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Software Dev, Process Automation</tspan>
+
+<tspan x="390" y="270">- Tech Stack</tspan> -—————————————————————————————————————————————
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Python, Bash, Javascript</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Docker, Kubernetes, CI/CD, Azure Functions</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Automation</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">APIs, Data Validation, Python Scripting</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Platforms</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, PowerApps</tspan>
+
+<tspan x="390" y="390">- Open To</tspan> -———————————————————————————————————————————————
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="value">DevOps and Platform roles focused on automation</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="value">Teams building scalable, low-friction infrastructure</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="value">Automation-driven projects with strong Linux foundations</tspan>
+
+<tspan x="390" y="490">- Connect</tspan> -———————————————————————————————————————————————
+<tspan x="390" y="510" class="cc">. </tspan>
+<tspan class="key">LinkedIn</tspan>:
+<tspan class="cc"> ......................... </tspan>
+<a href="https://www.linkedin.com/in/quinten-wildemeersch/" target="_blank">
+  <tspan class="value">linkedin.com/in/quinten-wildemeersch</tspan>
+</a>
+</text>
+</svg>

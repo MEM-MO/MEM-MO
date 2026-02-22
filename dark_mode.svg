@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 540" preserveAspectRatio="xMinYMin meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1105 540" preserveAspectRatio="xMinYMin meet">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -14,12 +14,12 @@ size-adjust: 109%;
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 .divider {stroke: #c9d1d9; stroke-width: 1; opacity: 0.4;}
-text, tspan {white-space: pre;}
+text, tspan {white-space: pre; font-size: 15px; font-family: 'ConsolasFallback', Consolas, monospace;}
 </style>
 <rect x="0" y="0" width="100%" height="100%" fill="#161b22" rx="15"/>
 
 
-<text x="15" y="30" fill="#f5a0fc" class="ascii">
+<text x="15" y="30" fill="#f5a0fc" class="ascii" font-size="13px">
 <tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⠴⠶⠶⠶⠶⠶⠶⠶⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </tspan>
 <tspan x="15" y="50">⠀⠀⠀⠀⢀⣤⠶⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠶⣤⡀⠀⠀⠀⠀⠀
@@ -69,41 +69,41 @@ text, tspan {white-space: pre;}
 
 
 <text x="390" y="30" fill="#c9d1d9">Memento-Mori</text>
-<line x1="510" y1="25" x2="1005" y2="25" class="divider"/>
+<line x1="510" y1="25" x2="1090" y2="25" class="divider"/>
 
 
 <text x="390" y="50" fill="#c9d1d9">
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">DevOps Engineer</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">5 Years Programming</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Automation, Linux, Reliable Systems</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Workflow</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Linux-first (Arch BTW)</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">DevOps Engineer</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">5 Years Programming</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Automation, Linux, Reliable Systems</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Workflow</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux-first (Arch BTW)</tspan>
 </text>
 
 
 <text x="390" y="150" fill="#c9d1d9">- Current</text>
-<line x1="460" y1="145" x2="1005" y2="145" class="divider"/>
+<line x1="460" y1="145" x2="1090" y2="145" class="divider"/>
 
 <text x="390" y="170" fill="#c9d1d9">
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Working On</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Python, Bash, CI/CD Automation</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Docker, Kubernetes, Advanced Linux</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Workflow Automation, System Integration</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Background</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Software Dev, Process Automation</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Working On</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Python, Bash, CI/CD Automation</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Docker, Kubernetes, Advanced Linux</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Workflow Automation, System Integration</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Background</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Software Dev, Process Automation</tspan>
 </text>
 
 
 <text x="390" y="270" fill="#c9d1d9">- Tech Stack</text>
-<line x1="475" y1="265" x2="1005" y2="265" class="divider"/>
+<line x1="475" y1="265" x2="1090" y2="265" class="divider"/>
 
 <text x="390" y="290" fill="#c9d1d9">
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Python, Bash, Javascript</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Docker, Kubernetes, CI/CD, Azure Functions</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Python, Bash, Javascript</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Docker, Kubernetes, CI/CD, Azure Functions</tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Automation</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">APIs, Data Validation, Python Scripting</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Platforms</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, PowerApps</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Platforms</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Linux, PowerApps</tspan>
 </text>
 
 
 <text x="390" y="390" fill="#c9d1d9">- Open To</text>
-<line x1="460" y1="385" x2="1005" y2="385" class="divider"/>
+<line x1="460" y1="385" x2="1090" y2="385" class="divider"/>
 
 <text x="390" y="410" fill="#c9d1d9">
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="value">DevOps and Platform roles focused on automation</tspan>
@@ -113,10 +113,10 @@ text, tspan {white-space: pre;}
 
 
 <text x="390" y="490" fill="#c9d1d9">- Connect</text>
-<line x1="458" y1="485" x2="1005" y2="485" class="divider"/>
+<line x1="458" y1="485" x2="1090" y2="485" class="divider"/>
 
 <text x="390" y="510" fill="#c9d1d9">
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................... </tspan><a href="https://www.linkedin.com/in/quinten-wildemeersch/" target="_blank"><tspan class="value">linkedin.com/in/quinten-wildemeersch</tspan></a>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................ </tspan><a href="https://www.linkedin.com/in/quinten-wildemeersch/" target="_blank"><tspan class="value">linkedin.com/in/quinten-wildemeersch</tspan></a>
 </text>
 
 </svg>
